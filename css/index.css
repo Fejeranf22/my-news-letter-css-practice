@@ -1,13 +1,15 @@
 body {
   background-color: #ffffcc;
-  margin: 10% 25% 10% 25%;
-  border: 8px solid grey;
-  width:500px;
+  margin: 0 auto;
+  padding:20px;
+  border: 20px solid grey;
+  max-width:700px;
+  width: 80%;
 
 }
 
 img {
-  margin:10%;
+  margin:0 21% 0 21%;
   width: 400px;
   height: auto;
   border: 1px solid black;
@@ -22,7 +24,7 @@ hr {
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: 1.66%;
+    margin-left: 1.66;
     margin-right: 1.66%;
     border-style: inset;
     border-width: 2px;
