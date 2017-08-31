@@ -1,0 +1,51 @@
+body {
+  background-color: #ffffcc;
+  margin: 10% 25% 10% 25%;
+  border: 8px solid grey;
+  width:500px;
+
+}
+
+img {
+  margin:10%;
+  width: 400px;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.titles {
+  margin-left: 1.66%;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1.66%;
+    margin-right: 1.66%;
+    border-style: inset;
+    border-width: 2px;
+}
+
+p{
+  margin-left: 1.66%;
+}
+
+.date {
+  color:#66ffcc ;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family:'Pacifico', cursive;
+
+}
+
+.firstP{
+  border-left: 2px solid green;
+  padding-left: 5px;
+  font-family: font-family: 'Quicksand', sans-serif;
+}
+
+/*the font of quicksand*/
+/*font-family: 'Pacifico', cursive;
+font-family: 'Quicksand', sans-serif;*/
